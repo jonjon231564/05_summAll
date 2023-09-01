@@ -19,6 +19,7 @@ Think about how you would do this on pen and paper and then how you might transl
 
 
 /////////////////////////////////////////////////////
+
 What I learned:
 I learned you can switch variables values by putting them in two arrays and switching the order of the variables in the second array.
 
